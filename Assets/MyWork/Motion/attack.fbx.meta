@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 66eb3114ef1ca0b4a8862d59bdbf7676
+timeCreated: 1481039246
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: body_pos
+    100006: bust
+    100008: bust_pos
+    100010: c_a_l_wepon
+    100012: c_a_r_wepon
+    100014: c_b_hip
+    100016: c_b_l_leg
+    100018: c_b_r_leg
+    100020: c_b_root
+    100022: c_r_body
+    100024: c_r_bust
+    100026: c_r_hair_se
+    100028: c_r_head
+    100030: c_r_hip
+    100032: c_r_l_hand
+    100034: c_r_l_kata
+    100036: c_r_r_hand
+    100038: c_r_r_kata
+    100040: c_t_l_arm
+    100042: c_t_r_arm
+    100044: c_u_l_arm
+    100046: c_u_l_leg
+    100048: c_u_r_arm
+    100050: c_u_r_leg
+    100052: hair2_se
+    100054: hair3_se
+    100056: hair_se
+    100058: hair_se_pos
+    100060: head
+    100062: head_pos
+    100064: hip
+    100066: hip_pos
+    100068: ikHandle1
+    100070: ikHandle2
+    100072: ikHandle3
+    100074: ikHandle4
+    100076: L_arm
+    100078: L_arm2
+    100080: L_arm2_pos
+    100082: L_arm3
+    100084: L_arm3_pos
+    100086: l_arm_r_pos
+    100088: l_arm_t_pos
+    100090: L_kata
+    100092: L_kata_pos
+    100094: L_leg
+    100096: L_leg2
+    100098: L_leg2_pos
+    100100: L_leg3
+    100102: L_leg3_pos
+    100104: L_wepon
+    100106: L_wepon_pos
+    100108: left
+    100110: locator1
+    100112: model_body
+    100114: model_eye
+    100116: model_fece
+    100118: model_mouse
+    100120: model_wepon
+    100122: R_arm
+    100124: R_arm2
+    100126: R_arm2_pos
+    100128: R_arm3
+    100130: R_arm3_pos
+    100132: r_arm_r_pos
+    100134: r_arm_t_pos
+    100136: R_kata
+    100138: R_kata_pos
+    100140: R_leg
+    100142: R_leg2
+    100144: R_leg2_pos
+    100146: R_leg3
+    100148: R_leg3_pos
+    100150: R_wepon
+    100152: R_wepon_pos
+    100154: root
+    100156: Top
+    400000: //RootNode
+    400002: body
+    400004: body_pos
+    400006: bust
+    400008: bust_pos
+    400010: c_a_l_wepon
+    400012: c_a_r_wepon
+    400014: c_b_hip
+    400016: c_b_l_leg
+    400018: c_b_r_leg
+    400020: c_b_root
+    400022: c_r_body
+    400024: c_r_bust
+    400026: c_r_hair_se
+    400028: c_r_head
+    400030: c_r_hip
+    400032: c_r_l_hand
+    400034: c_r_l_kata
+    400036: c_r_r_hand
+    400038: c_r_r_kata
+    400040: c_t_l_arm
+    400042: c_t_r_arm
+    400044: c_u_l_arm
+    400046: c_u_l_leg
+    400048: c_u_r_arm
+    400050: c_u_r_leg
+    400052: hair2_se
+    400054: hair3_se
+    400056: hair_se
+    400058: hair_se_pos
+    400060: head
+    400062: head_pos
+    400064: hip
+    400066: hip_pos
+    400068: ikHandle1
+    400070: ikHandle2
+    400072: ikHandle3
+    400074: ikHandle4
+    400076: L_arm
+    400078: L_arm2
+    400080: L_arm2_pos
+    400082: L_arm3
+    400084: L_arm3_pos
+    400086: l_arm_r_pos
+    400088: l_arm_t_pos
+    400090: L_kata
+    400092: L_kata_pos
+    400094: L_leg
+    400096: L_leg2
+    400098: L_leg2_pos
+    400100: L_leg3
+    400102: L_leg3_pos
+    400104: L_wepon
+    400106: L_wepon_pos
+    400108: left
+    400110: locator1
+    400112: model_body
+    400114: model_eye
+    400116: model_fece
+    400118: model_mouse
+    400120: model_wepon
+    400122: R_arm
+    400124: R_arm2
+    400126: R_arm2_pos
+    400128: R_arm3
+    400130: R_arm3_pos
+    400132: r_arm_r_pos
+    400134: r_arm_t_pos
+    400136: R_kata
+    400138: R_kata_pos
+    400140: R_leg
+    400142: R_leg2
+    400144: R_leg2_pos
+    400146: R_leg3
+    400148: R_leg3_pos
+    400150: R_wepon
+    400152: R_wepon_pos
+    400154: root
+    400156: Top
+    2300000: model_eye
+    2300002: model_mouse
+    2300004: model_wepon
+    3300000: model_eye
+    3300002: model_mouse
+    3300004: model_wepon
+    4300000: model_body
+    4300002: model_eye
+    4300004: model_mouse
+    4300006: model_wepon
+    7400000: attack
+    9500000: //RootNode
+    13700000: model_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack
+      takeName: attack
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Top
+        weight: 1
+      - path: Top/root
+        weight: 1
+      - path: Top/root/hip
+        weight: 1
+      - path: Top/root/hip/body
+        weight: 1
+      - path: Top/root/hip/body/bust
+        weight: 1
+      - path: Top/root/hip/body/bust/head
+        weight: 1
+      - path: Top/root/hip/body/bust/head/hair_se
+        weight: 1
+      - path: Top/root/hip/body/bust/head/hair_se/hair2_se
+        weight: 1
+      - path: Top/root/hip/body/bust/head/hair_se/hair2_se/hair3_se
+        weight: 1
+      - path: Top/root/hip/body/bust/L_kata
+        weight: 1
+      - path: Top/root/hip/body/bust/L_kata/L_arm
+        weight: 1
+      - path: Top/root/hip/body/bust/L_kata/L_arm/L_arm2
+        weight: 1
+      - path: Top/root/hip/body/bust/L_kata/L_arm/L_arm2/L_arm3
+        weight: 1
+      - path: Top/root/hip/body/bust/L_kata/L_arm/L_arm2/L_arm3/L_wepon
+        weight: 1
+      - path: Top/root/hip/body/bust/R_kata
+        weight: 1
+      - path: Top/root/hip/body/bust/R_kata/R_arm
+        weight: 1
+      - path: Top/root/hip/body/bust/R_kata/R_arm/R_arm2
+        weight: 1
+      - path: Top/root/hip/body/bust/R_kata/R_arm/R_arm2/R_arm3
+        weight: 1
+      - path: Top/root/hip/body/bust/R_kata/R_arm/R_arm2/R_arm3/R_wepon
+        weight: 1
+      - path: Top/root/hip/L_leg
+        weight: 1
+      - path: Top/root/hip/L_leg/L_leg2
+        weight: 1
+      - path: Top/root/hip/L_leg/L_leg2/L_leg3
+        weight: 1
+      - path: Top/root/hip/R_leg
+        weight: 1
+      - path: Top/root/hip/R_leg/R_leg2
+        weight: 1
+      - path: Top/root/hip/R_leg/R_leg2/R_leg3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
